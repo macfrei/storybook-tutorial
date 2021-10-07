@@ -24,6 +24,6 @@ If you have any questions while programming, please write them down and let me k
 
 ## Table of content
 
-- [Step 1: CRA setup and getting started](./tutorial.md#step-1:-cra-setup-and-getting-started)
-- [Step 2: Add storybook](./tutorial.md#step-2:-add-storybook)
-- [Step 3: First component](./tutorial.md#step-3:-first-component)
+- Step 1 - CRA setup and getting started
+- Step 2 - Add storybook
+- Step 3 - First component

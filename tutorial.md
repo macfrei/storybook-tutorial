@@ -1,6 +1,6 @@
 # How to setup and work with storybook
 
-## Step 1: CRA setup and getting started
+## Step 1 - CRA setup and getting started
 
 First we need to setup a React app. We will use `create-react-app` for it.
 Go to your terminal and write:
@@ -25,7 +25,7 @@ Before we get started with storybook, we should do some cleanup. Since we are wo
 
 Now we are good to go!
 
-## Step 2: Add storybook
+## Step 2 - Add storybook
 
 Before we start writing code, we will add storybook to our project. Head back to your terminal, make sure you are in the right working directory and run the following command:
 
@@ -57,7 +57,7 @@ You should see something like this:
 
 Have a look at the `Button` component and its different states. To better undestand what is happening, we will be writing our own first component and a story for it.
 
-## Step 3: First component
+## Step 3 - First component
 
 Let storybook continue to run on `http://localhost:6006`.
 
