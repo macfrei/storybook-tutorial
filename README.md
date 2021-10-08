@@ -20,7 +20,7 @@ In this short tutorial you will learn how to setup your React app with storybook
 
 If you have any questions while programming, please write them down and let me know!
 
-[-> ⚡️ Getting startet! ⚡️](tutorial.md)
+[-> ⚡️ Getting started! ⚡️](tutorial.md)
 
 ## Table of content
 
